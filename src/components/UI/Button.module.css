@@ -1,0 +1,16 @@
+.button{
+    font: inherit;
+    margin: 1rem auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    width: 15%;
+    color: orange;
+    background: black;
+}
+
+.button:hover {
+    color:white;
+    cursor: pointer;
+}

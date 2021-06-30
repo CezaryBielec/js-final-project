@@ -1,0 +1,2 @@
+export const WELCOME_CONTENT = "Hello there!\nWelcome to the REACT NOTES :)\nWe present to you the application which will help you with memorizing all the things that are important.";
+export const ADD_NOTE_PLACEHOLDER = "Add your note...";

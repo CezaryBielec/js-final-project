@@ -1,0 +1,21 @@
+.form {
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 40rem;
+}
+
+.form label {
+  display: block;
+  text-align: center;
+  font-size: 25px;
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.form input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  font-size: 20px;
+}

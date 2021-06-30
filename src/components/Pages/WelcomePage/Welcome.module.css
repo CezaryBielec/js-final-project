@@ -1,0 +1,49 @@
+.paragraph {
+    position: relative;
+    top: 150px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15mm;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+}
+
+.paragraph p  {
+    white-space: pre-line;
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10mm;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.paragraph button {
+    font: inherit;
+    font-size: 8mm;
+    display: block;
+    border-radius: 8px;
+    width: 15%;
+    position: relative;
+    bottom: 15px;
+    background:black;
+    color:orange;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover {
+    color: orange;
+}
