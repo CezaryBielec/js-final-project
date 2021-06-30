@@ -1,3 +1,28 @@
+# Notes regading the project:
+
+## Temat aplikacji:
+- Notatnik
+## Opis oraz funkcjonalność:
+- Logowanie
+- Dodawanie notatek
+## Użyte technologie i ich zastosowanie:
+- Javascript
+- React
+- Css
+## Podstrony:
+- Strona welcome z tekstem i przyciskiem przenoszącym do logowania
+- Strona logowania z polami login i password oraz przyciskiem logowania
+- Strona dodawania notatek
+## Opis nawigacji:
+- Welcome => Login => Add note (z obsługą przenoszenia wstecz)
+## Opis komponentów:
+- Header jako stale widoczny komponent w aplikacji wyświetlający tytuł i logo Reacta
+- MainContainer zawierający w zależności od adresu url, content dotyczący:
+- Welcome screen (wykorzystujący komponent Card oraz Button)
+- Login screen (wykorzystujący Card, Button oraz <form>)
+- Add note screen (wykorzystujący Card, Button i <input>)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
