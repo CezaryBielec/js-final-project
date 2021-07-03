@@ -19,8 +19,8 @@
 - Header jako stale widoczny komponent w aplikacji wyświetlający tytuł i logo Reacta
 - MainContainer zawierający w zależności od adresu url, content dotyczący:
 - Welcome screen (wykorzystujący komponent Card oraz Button)
-- Login screen (wykorzystujący Card, Button oraz <form>)
-- Add note screen (wykorzystujący Card, Button i <input>)
+- Login screen (wykorzystujący Card, Button oraz form)
+- Add note screen (wykorzystujący Card, Button i input)
 
 
 # Getting Started with Create React App
